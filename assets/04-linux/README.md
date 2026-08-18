@@ -34,6 +34,7 @@ find . -name "*.txt"
 locate filename
 grep "text" file.txt
 ```
+![Linux-Cmd](../04-linux/cmd-file-search.png)
 
 ### System Information
 
@@ -52,6 +53,8 @@ lsblk
 df -h
 du -sh
 ```
+
+![Linux-Cmd](../04-linux/cmd-file-system.png)
 
 ### Partition & Mounting (basic understanding)
 
